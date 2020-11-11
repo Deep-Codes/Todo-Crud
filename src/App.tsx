@@ -39,7 +39,7 @@ function App() {
 
   return (
     <div className='App'>
-      <h1>Todo Crud App</h1>
+      <h1>TODO CRUD APP</h1>
       <TextField addItemList={addItemList} />
       <TodoList list={list} removeItem={removeItem} updateItem={updateItem} />
     </div>

@@ -59,6 +59,20 @@ button {
   border-radius: 5px;
 }
 
+.TodoItem input {
+  height: 30px;
+  width: 200px;
+  margin-right: 10px;
+  background-color: #3f3f3f;
+  outline: none;
+  border: none;
+  padding-left: 10px;
+  font-size: 16px;
+  border-radius: 5px;
+  font-weight: bold;
+  color: aliceblue;
+}
+
 img {
   width: 16px;
   filter: invert(100);
